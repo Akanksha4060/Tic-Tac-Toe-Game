@@ -15,3 +15,12 @@ Tie condition shows pink tiles
 - Includes a Restart button to reset the game board and play again without restarting the app.
 - Ensures players cannot override already-filled tiles.
 
+##Technologies Used
+- Java Programming Language
+- Java Swing for GUI (JFrame, JPanel, JLabel, JButton)
+- AWT for layout and event handling (ActionListener)
+- 2D Arrays to manage the game board (JButton[][])
+- OOP Concepts – Encapsulation, Objects, Classes
+- Event-driven programming to respond to user actions
+- Font and Color APIs for styling game components
+
