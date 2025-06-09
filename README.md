@@ -19,7 +19,7 @@ Tie condition shows pink tiles
 - Java Programming Language
 - Java Swing for GUI (JFrame, JPanel, JLabel, JButton)
 - AWT for layout and event handling (ActionListener)
-- 2D Arrays to manage the game board (JButton[][])
+- 2D Arrays to manage the game board (JButton)
 - OOP Concepts – Encapsulation, Objects, Classes
 - Event-driven programming to respond to user actions
 - Font and Color APIs for styling game components
